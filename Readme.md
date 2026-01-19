@@ -299,7 +299,7 @@ This project is open source and available under the MIT License.
 For questions or feedback:
 
 - **GitHub**: [@KoderKalash](https://github.com/KoderKalash)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **LinkedIn**: [Kalash Sharma](https://linkedin.com/in/kalas-sharma)
 
 ---
 
